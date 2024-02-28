@@ -3,22 +3,10 @@ layout: default
 title: アカウント設定
 parent: 設定
 nav_order: 5
-has_children: false
+has_children: true
 ---
 
 # アカウント設定
 {: .no_toc }
 
-## 目次
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-## メンバーを招待する
-
-
-## メンバーの招待をキャンセルする
-
+アカウント設定では、ログインしているユーザー個人のアカウントに関する設定を行うことができます。

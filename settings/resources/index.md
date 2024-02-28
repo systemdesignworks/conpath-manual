@@ -3,23 +3,11 @@ layout: default
 title: リソース管理
 parent: 設定
 nav_order: 3
-has_children: false
+has_children: true
 ---
 
 # リソース管理
 {: .no_toc }
 
-## 目次
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-## リソースを新規追加する
-
-
-## リソースを編集する
-
-
+リソース管理では、リソースの登録、編集を行うことができます。  
+リソースは人や機械など汎用的に登録でき、タスクに関連付けすることで[リソース画面]でリソース毎にグループ化されるようになります。

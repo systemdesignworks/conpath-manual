@@ -42,4 +42,13 @@ back_to_top_text: "トップへ戻る"
 
 footer_content: "Copyright &copy; 2024 System Design Works, Inc. Released under the <a href=\"https://licenses.opensource.jp/MIT/MIT.html\" target=\"_blank\">MIT license</a>"
 
+callouts_level: quiet # or loud
+callouts:
+  note:
+    title: 備考
+    color: blue
+  warning:
+    title: ご注意
+    color: yellow
+
 port: 4001
