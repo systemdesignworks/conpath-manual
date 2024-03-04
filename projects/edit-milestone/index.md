@@ -2,7 +2,7 @@
 layout: default
 title: マイルストーンを編集する
 parent: プロジェクト
-nav_order: 7
+nav_order: 4
 has_children: true
 ---
 
