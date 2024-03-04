@@ -1,9 +1,9 @@
 ---
 layout: default
-title: タスク・マイルストーンを依存関係にする
+title: ネットワーク線の作成・編集
 parent: プロジェクト
-nav_order: 5
+nav_order: 6
 has_children: true
 ---
 
-# タスク・マイルストーンを依存関係にする
+# ネットワーク線の作成・編集

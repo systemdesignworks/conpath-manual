@@ -1,9 +1,9 @@
 ---
 layout: default
 title: 依存関係のタスクを強調表示する
-parent: タスク・マイルストーンを依存関係にする
+parent: ネットワーク線の作成・編集
 grand_parent: プロジェクト
-nav_order: 3
+nav_order: 4
 has_children: false
 ---
 
