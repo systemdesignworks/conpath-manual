@@ -39,5 +39,12 @@ has_children: false
 - 設定  
   [設定]({% link settings/index.md  %})を開きます。
 
+<img src="../../assets/images/basic/3.png" width="20%">
+
+- インフォメーションアイコン  
+  [マニュアル]ボタンをクリックするとマニュアルページが新規タブで開きます。
+
+<img src="../../assets/images/basic/4.png" width="25%">
+
 - ユーザーアイコン  
   ユーザー名が表示されます。[ログアウト]ボタンをクリックするとConPathからログアウトします。

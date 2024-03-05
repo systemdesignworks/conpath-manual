@@ -3,10 +3,40 @@ layout: default
 title: 一般
 parent: 設定
 nav_order: 1
-has_children: true
+has_children: false
 ---
 
 # 一般
 {: .no_toc }
 
 一般では、組織に関する設定を行うことができます。
+
+## 目次
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## 組織の名前を変更する
+
+1. [設定>一般]を開きます。
+
+   <img src="../../assets/images/settings/general.png" width="100%">
+
+2. 組織名を変更し、[更新]ボタンをクリックします。
+
+   <img src="../../assets/images/settings/general/1.png" width="100%">
+
+{: .note }
+この設定は組織の権限がオーナー、メンバーのみ可能です。
+
+## クリティカルパスの色を変更する
+
+1. [設定>一般]を開きます。
+2. [クリティカルパスの色]のプルダウンから色を選択し、[更新]ボタンをクリックします。
+
+{: .note }
+デフォルトは水色です。  
+この設定は組織の権限がオーナー、メンバーのみ可能です。

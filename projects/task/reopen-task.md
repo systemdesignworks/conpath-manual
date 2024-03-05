@@ -3,7 +3,7 @@ layout: default
 title: タスクを再開する
 parent: タスクの作成・編集
 grand_parent: プロジェクト
-nav_order: 11
+nav_order: 12
 has_children: false
 ---
 
@@ -11,17 +11,23 @@ has_children: false
 
 1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
 
-    [画像]
+   <img src="../../assets/images/activetool-selection.png" width="52px">
 
 2. タスクをクリックして選択します。
 
-    [画像]
+    <img src="../../assets/images/projects/task/reopen-task/1.png" width="40%">
 
 3. 以下のいずれかの操作を行います。
-    - 図形アクションの操作から[再開]アイコンをクリックします。
-    - タスク右下の[編集]アイコンをクリックし、[完了済みにする]のチェックを外します。
+    - サイドバーの操作から[再開]アイコンをクリックします。
+
+      <img src="../../assets/images/projects/task/reopen-task/2.png" width="30%">
+    
+    - タスク右上の[編集]アイコンをクリックし、[作業を再開する]ボタンをクリックします。
+
+      <img src="../../assets/images/projects/task/reopen-task/3.png" width="60%">
+
     - 右クリック(iPad:タッチ&ホールド)でコンテキストメニューを開き、[再開]を選択します。
     
-    タスク、それに付随する次のリンクが元の表示になります。
+    タスク、それに付随する次のネットワーク線が元の表示になります。
 
-    [画像]
+   <img src="../../assets/images/projects/task/reopen-task/4.png" width="40%">

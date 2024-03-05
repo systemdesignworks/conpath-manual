@@ -3,39 +3,33 @@ layout: default
 title: 個別休日を設定する
 parent: タスクの作成・編集
 grand_parent: プロジェクト
-nav_order: 8
+nav_order: 9
 has_children: false
 ---
 
 # 個別休日を設定する
 
 1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
-    
-    [画像]
-    
+
+   <img src="../../assets/images/activetool-selection.png" width="52px">
+
 2. タスクをクリックして選択します。
 3. 以下のいずれかの操作を行います。
-    - 図形アクションの操作から[編集]アイコンをクリックします。
-    
-    [画像]
-    
-    - タスク右下の[編集]アイコンをクリックします。
-    
-    [画像]
-    
+    - サイドバーの操作から[編集]ボタンをクリックします。
+    - タスク右上の[編集]アイコンをクリックします。
     - 右クリック(iPad:タッチ&ホールド)でコンテキストメニューを開き、[編集]を選択します。
+
 4. [休日を個別に設定する]にチェックを入れます。
+
+   <img src="../../assets/images/projects/task/holiday-settings/1.png" width="40%">
     
-    [画像]
-    
-5. 表示されたカレンダー内で休日を選択し、[確定]ボタンをクリックします。
-    
-    [画像]
+5. 表示されたカレンダー内で休日を選択し、[×]アイコンをクリックして編集画面を閉じます。
+
+   <img src="../../assets/images/projects/task/holiday-settings/2.png" width="40%">
     
     タスクに個別休日が反映されます。
-    
-    [画像]
-    
+
+   <img src="../../assets/images/projects/task/holiday-settings/3.png" width="40%">
 
 {: .warning }
 個別休日の計算には以下が適応されます。  

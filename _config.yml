@@ -6,7 +6,7 @@ url: https://systemdesignworks.github.io
 
 # Enable or disable the site search
 # Supports true (default) or false
-search_enabled: true
+search_enabled: false
 search:
   # Split pages into sections that can be searched individually
   # Supports 1 - 6, default: 2
@@ -37,7 +37,7 @@ search:
 #   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 # Back to top link
-back_to_top: false
+back_to_top: true
 back_to_top_text: "トップへ戻る"
 
 footer_content: "Copyright &copy; 2024 System Design Works, Inc. Released under the <a href=\"https://licenses.opensource.jp/MIT/MIT.html\" target=\"_blank\">MIT license</a>"
