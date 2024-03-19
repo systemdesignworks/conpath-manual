@@ -22,16 +22,22 @@ has_children: false
 
 1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
    
+   <table><tr><td>
    <img src="../../assets/images/activetool-selection.png" width="52px">
+   </td></tr></table>
 
 2. タスクをクリックして選択します。
 
+   <table><tr><td>
    <img src="../../assets/images/projects/task/move-task/1.png" width="40%">
+   </td></tr></table>
 
 3. 上下左右方向にドラッグし、目的のポイントでドロップします。
 またはキーボードの矢印キーを押します。
 
+   <table><tr><td>
    <img src="../../assets/images/projects/task/move-task/2.png" width="40%">
+   </td></tr></table>
 
 {: .note }
 依存関係にあるタスクの始点、終点を越える移動を行うと以降のタスクも連動して移動します。
@@ -45,15 +51,21 @@ has_children: false
 
 1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
 
+   <table><tr><td>
    <img src="../../assets/images/activetool-selection.png" width="52px">
+   </td></tr></table>
 
 2. 対象全体を囲うように範囲選択、またはshiftを押しながら複数のタスクを選択します。
 
+   <table><tr><td>
    <img src="../../assets/images/projects/task/move-task/3.png" width="40%">
+   </td></tr></table>
     
 3. いずれかの要素、点線のボックスを上下左右方向にドラッグし、目的のポイントでドロップします。またはキーボードの矢印キーを押します。
 
+   <table><tr><td>
    <img src="../../assets/images/projects/task/move-task/4.png" width="40%">
+   </td></tr></table>
 
 {: .note }
 依存関係にあるタスクの始点、終点を越えるタスクの移動を行うと以降のタスクも連動して移動します。

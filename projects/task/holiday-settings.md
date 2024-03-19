@@ -11,7 +11,9 @@ has_children: false
 
 1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
 
+   <table><tr><td>
    <img src="../../assets/images/activetool-selection.png" width="52px">
+   </td></tr></table>
 
 2. タスクをクリックして選択します。
 3. 以下のいずれかの操作を行います。
@@ -21,15 +23,21 @@ has_children: false
 
 4. [休日を個別に設定する]にチェックを入れます。
 
+   <table><tr><td>
    <img src="../../assets/images/projects/task/holiday-settings/1.png" width="40%">
+   </td></tr></table>
     
 5. 表示されたカレンダー内で休日を選択し、[×]アイコンをクリックして編集画面を閉じます。
 
+   <table><tr><td>
    <img src="../../assets/images/projects/task/holiday-settings/2.png" width="40%">
+   </td></tr></table>
     
     タスクに個別休日が反映されます。
 
+   <table><tr><td>
    <img src="../../assets/images/projects/task/holiday-settings/3.png" width="40%">
+   </td></tr></table>
 
 {: .warning }
 個別休日の計算には以下が適応されます。  

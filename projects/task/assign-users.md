@@ -22,7 +22,9 @@ has_children: false
 
 1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
 
+   <table><tr><td>
    <img src="../../assets/images/activetool-selection.png" width="52px">
+   </td></tr></table>
  
 2. タスクをクリックして選択します。
 3. 以下のいずれかの操作を行います。
@@ -32,11 +34,15 @@ has_children: false
 
 4. 担当者をクリックします。
 
+   <table><tr><td>
    <img src="../../assets/images/projects/task/assign-users/1.png" width="80%">
+   </td></tr></table>
 
 5. 選択候補から、アサインする担当者を選択します。
 
+   <table><tr><td>
    <img src="../../assets/images/projects/task/assign-users/2.png" width="50%">
+   </td></tr></table>
 
 {: .note }
 プロジェクトにアサインされているメンバー、または組織の権限が管理者の方が選択候補に表示されます。
@@ -45,7 +51,9 @@ has_children: false
 
 1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
 
+   <table><tr><td>
    <img src="../../assets/images/activetool-selection.png" width="52px">
+   </td></tr></table>
 
 2. タスクをクリックして選択します。
 3. 以下のいずれかの操作を行います。
@@ -55,8 +63,12 @@ has_children: false
 
 4. 担当者をクリックします。
 
+   <table><tr><td>
    <img src="../../assets/images/projects/task/assign-users/1.png" width="80%">
+   </td></tr></table>
 
 5. 担当者から、アサインを解除する担当者を選択します。
 
+   <table><tr><td>
    <img src="../../assets/images/projects/task/assign-users/3.png" width="50%">
+   </td></tr></table>

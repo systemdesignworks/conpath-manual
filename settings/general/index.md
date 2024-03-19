@@ -23,11 +23,15 @@ has_children: false
 
 1. [設定>一般]を開きます。
 
+   <table><tr><td>
    <img src="../../assets/images/settings/general.png" width="100%">
+   </td></tr></table>
 
 2. 組織名を変更し、[更新]ボタンをクリックします。
 
+   <table><tr><td>
    <img src="../../assets/images/settings/general/1.png" width="100%">
+   </td></tr></table>
 
 {: .note }
 この設定は組織の権限がオーナー、メンバーのみ可能です。

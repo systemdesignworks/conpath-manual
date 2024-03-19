@@ -12,6 +12,8 @@ has_children: false
 1. ロックを解除したいタスクの上にカーソルを移動します。
 2. 右クリック(iPad:タッチ&ホールド)でコンテキストメニューを開き、[ロック解除]を選択します。
 
+   <table><tr><td>
    <img src="../../assets/images/projects/task/unlock-task/1.png" width="60%">
+   </td></tr></table>
 
 タスクのロックが解除されます。

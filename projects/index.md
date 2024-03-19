@@ -17,17 +17,21 @@ has_children: true
 ---
 
 ## 各部の名称
-
+<table><tr><td>
 <img src="../../assets/images/projects/1.png">
+</td></tr></table>
+<table><tr><td>
 <img src="../../assets/images/projects/2.png">
+</td></tr></table>
 
 ### プロジェクト
 
 プロジェクト一覧の行をクリックするとプロジェクトを新規タブで開きます。
 
 ### メニュー
-
+<table><tr><td>
 <img src="../../assets/images/projects/3.png" width="50%">
+</td></tr></table>
 
 - 開く  
   .conpath形式のファイルを読み込むことで保存された時点のキャンバスの状態を復元します。
@@ -49,8 +53,9 @@ has_children: true
   左の枠内をクリックするとカラーピッカーから選択することもできます。
 
 ### 設定メニュー
-
+<table><tr><td>
 <img src="../../assets/images/projects/4.png" width="30%">
+</td></tr></table>
 
 - プロジェクト設定  
   プロジェクトの工期を設定します。
@@ -62,16 +67,18 @@ has_children: true
   プロジェクトを削除します。
 
 ### ツールボックス
-
+<table><tr><td>
 <img src="../../assets/images/projects/5.png" width="15%">
+</td></tr></table>
 
 - − 、＋ボタン  
   キャンバスを拡大/縮小します。
 
 - 倍率表示ボタン  
   〇〇%部分をクリックすると拡大/縮小をリセットします。
-
+<table><tr><td>
 <img src="../../assets/images/projects/6.png" width="10%">
+</td></tr></table>
 
 - 元に戻す（アンドゥ）  
   直前に行った操作を取り消して元に戻します。
@@ -80,18 +87,21 @@ has_children: true
   アンドゥで取り消した操作をもう一度実行します。
 
 ### ツールバー
-
+<table><tr><td>
 <img src="../../assets/images/projects/7.png" width="5%">
+</td></tr></table>
 
 - ロック  
 描画後も使用中のツールを選択したままにします。
-
+<table><tr><td>
 <img src="../../assets/images/projects/8.png" width="5%">
+</td></tr></table>
 
 - 手のひら  
 キャンバスのスクロールを行います。
-
+<table><tr><td>
 <img src="../../assets/images/projects/9.png" width="5%">
+</td></tr></table>
 
 - 選択  
 キャンバス内の要素を選択します。  
@@ -104,55 +114,65 @@ has_children: true
   ・[タスクの作成・編集]({% link projects/task/index.md %})  
   ・[マイルストーンの作成・編集]({% link projects/milestone/index.md %})  
   ・[ネットワーク線の作成・編集]({% link projects/dependence/index.md %})
-
+<table><tr><td>
 <img src="../../assets/images/projects/10.png" width="5%">
+</td></tr></table>
 
 - タスク  
 タスクを新規作成します。
-
+<table><tr><td>
 <img src="../../assets/images/projects/11.png" width="5%">
+</td></tr></table>
 
 - マイルストーン  
 マイルストーンを新規作成します。
-
+<table><tr><td>
 <img src="../../assets/images/projects/12.png" width="5%">
+</td></tr></table>
 
 - 図形  
 図形を挿入します。
-
+<table><tr><td>
 <img src="../../assets/images/projects/13.png" width="5%">
+</td></tr></table>
 
 - テキスト  
 テキストを挿入します。
-
+<table><tr><td>
 <img src="../../assets/images/projects/14.png" width="5%">
+</td></tr></table>
 
 - 画像を挿入  
 画像を挿入します。
-
+<table><tr><td>
 <img src="../../assets/images/projects/15.png" width="5%">
+</td></tr></table>
 
 - レーザーポインター  
 キャンバス内にレーザポインターを描画します。
-
+<table><tr><td>
 <img src="../../assets/images/projects/16.png" width="5%">
+</td></tr></table>
 
 - 消しゴム  
 キャンバス内のアイテムを削除します。
 
 ### サイドバー
-
+<table><tr><td>
 <img src="../../assets/images/projects/17.png" width="30%">
+</td></tr></table>
 
 - サイドバー  
   選択された図形の詳細情報や編集可能項目が表示されます。
-
+<table><tr><td>
 <img src="../../assets/images/projects/18.png" width="5%">
+</td></tr></table>
 
 - ライブラリ  
   使用頻度の高いアイテムをライブラリに登録し、任意のタイミングでキャンバス上に貼り付けることができます。
-
+<table><tr><td>
 <img src="../../assets/images/projects/19.png" width="5%">
+</td></tr></table>
 
 - コメント  
   組織内のメンバーとコメントのやり取りをすることができます。
@@ -165,8 +185,9 @@ has_children: true
 
 [プロジェクトの管理]({% link projects/manage-project/index.md %})で設定した範囲のカレンダーが生成されます。今日の日付は水色の線で表示されます。  
 今日の日付が画面外にあるとき、[本日]ボタンをクリックすると今日の日付が画面内に表示されるようキャンバスがスクロールされます。
-
+<table><tr><td>
 <img src="../../assets/images/projects/20.png" width="40%">
+</td></tr></table>
 
 {: .warning }
 ページを離れるときにこのようなメッセージが出ることがあります。このページを離れるを選択すると変更した内容が保存されないため、

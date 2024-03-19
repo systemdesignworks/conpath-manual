@@ -18,5 +18,6 @@ has_children: true
 ---
 
 ## 各部の名称
-
+<table><tr><td>
 <img src="../../assets/images/projects/task/1.png" width="50%">
+</td></tr></table>

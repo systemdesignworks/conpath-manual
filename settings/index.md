@@ -17,5 +17,6 @@ has_children: true
 ---
 
 ## 各部の名称
-
+<table><tr><td>
 <img src="../../assets/images/settings/1.png" width="100%">
+</td></tr></table>
