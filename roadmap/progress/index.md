@@ -2,7 +2,7 @@
 layout: default
 title: 進捗管理
 parent: ロードマップ
-nav_order: 5
+nav_order: 1
 has_children: false
 ---
 
