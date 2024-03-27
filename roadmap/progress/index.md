@@ -26,13 +26,13 @@ has_children: false
 
 の2種類で確認することができます。
 
-![Alt text](/assets/images/roadmap/1.png)
-![Alt text](/assets/images/roadmap/2.png)
+![Alt text](/assets/images/roadmap/progress/1.png)
+![Alt text](/assets/images/roadmap/progress/2.png)
 
 進捗率の表示は以下の方法で切り替えることができます。
-1. 画面下の![Alt text](/assets/images/roadmap/3.png) をクリックします。
+1. 画面下の![Alt text](/assets/images/roadmap/progress/3.png) をクリックします。
 2. [タスク完了個数で表示する]または[完了率で表示する]をクリックして、進捗の表示方法を切り替えます。
-![Alt text](/assets/images/roadmap/4.png)
+![Alt text](/assets/images/roadmap/progress/4.png)
 
 ---
 
@@ -40,7 +40,7 @@ has_children: false
 
 当日より前に完了していないタスクは、ツリーとチャートと共に赤く表示されます。
 <br>また、チャートでタスクをマウスでホバーすると[期限を過ぎています]とメッセージが表示されます。
-![Alt text](/assets/images/roadmap/5.png)
+![Alt text](/assets/images/roadmap/progress/5.png)
 
 ---
 
@@ -54,9 +54,9 @@ has_children: false
 - 5日 ~ 9日: <span style="background:yellow; color:black;">黄色</span>
 - 10日~ 灰色: <span style="background:gray; color:white">灰色</span>
 
-![Alt text](/assets/images/roadmap/6.png)
+![Alt text](/assets/images/roadmap/progress/6.png)
 <br>
 <br>
-![Alt text](/assets/images/roadmap/7.png)
+![Alt text](/assets/images/roadmap/progress/7.png)
 
 ---
