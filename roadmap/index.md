@@ -19,7 +19,7 @@ has_children: true
 
 ---
 
-### 各部の名称
+## 各部の名称
 
   <table><tr><td>
   <img src="/assets/images/roadmap/1.png">
