@@ -23,13 +23,18 @@ has_children: true
 
   - ツリーでタスクの[開く]をクリックします。
   - チャートでタスクバーをクリックする。
-  ![Alt text](/assets/images/roadmap/task/1.png)
+
+  <table><tr><td>
+    <img src="/assets/images/roadmap/task/1.png" width="80%">
+  </td></tr></table>
 
 ---
 
 ## 各部の名称
 
-![Alt text](/assets/images/roadmap/task/2.png)
+  <table><tr><td>
+    <img src="/assets/images/roadmap/task/2.png" width="80%">
+  </td></tr></table>
 
 ### タスクのステータス
 タスクのステータスを[完了]または[未完了]で表示します。
@@ -37,7 +42,7 @@ has_children: true
 ---
 
 ### タスクのタイトル
-タスクのタイトルを表示します。<br>![Alt text](/assets/images/roadmap/task/3.png) をクリックするとプロジェクトが新規タブで開かれます。
+タスクのタイトルを表示します。<br><img src="/assets/images/roadmap/task/3.png"> をクリックするとプロジェクトが新規タブで開かれます。
 
 ---
 
@@ -49,16 +54,10 @@ has_children: true
 ### 担当者
 タスクにアサインされた担当者を表示されます。
 
-{: .note }
-担当者をアサイン/管理する方法は、[こちら](/projects/task/assign-users)をご確認ください。
-
 ---
 
 ### 関連リソース
 タスクにアサインされた関連会社などの関連リソースを表示されます。
-
-{: .note }
-関連リソースをアサイン/管理する方法は、[こちら](/projects/task/resources)をご確認ください。
 
 
 ---
@@ -77,13 +76,10 @@ has_children: true
 ### チェックリスト
 タスクに登録されたチェックリストを表示します。
 
-{: .note }
-チェックリストを追加/管理する方法は、[こちら](/projects/task/create-checklist)をご確認ください。
-
 ---
 
 ### コメント機能
 タスクに登録されたコメントをスレッド形式で表示されます。
 
 {: .note }
-コメントの仕様方法は、[こちら](/projects/comment/)をご確認ください。
+コメントの使用方法は、[こちら](/projects/comment/)をご確認ください。
