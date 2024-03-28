@@ -20,7 +20,7 @@ has_children: false
 
 ### ヘッダー
 <table><tr><td>
-<img src="../../assets/images/basic/1.png">
+<img src="/assets/images/basic/1.png">
 </td></tr></table>
 
 ヘッダーは各画面で共通で表示されます。
@@ -40,13 +40,13 @@ has_children: false
 - 設定  
   [設定]({% link settings/index.md  %})を開きます。
 <table><tr><td>
-<img src="../../assets/images/basic/3.png" width="20%">
+<img src="/assets/images/basic/3.png" width="20%">
 </td></tr></table>
 
 - インフォメーションアイコン  
   [マニュアル]ボタンをクリックするとマニュアルページが新規タブで開きます。
 <table><tr><td>
-<img src="../../assets/images/basic/4.png" width="25%">
+<img src="/assets/images/basic/4.png" width="25%">
 </td></tr></table>
 
 - ユーザーアイコン  

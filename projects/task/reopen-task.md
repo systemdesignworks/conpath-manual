@@ -12,26 +12,26 @@ has_children: false
 1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
 
    <table><tr><td>
-   <img src="../../assets/images/activetool-selection.png" width="52px">
+   <img src="/assets/images/activetool-selection.png" width="52px">
    </td></tr></table>
 
 2. タスクをクリックして選択します。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/task/reopen-task/1.png" width="40%">
+   <img src="/assets/images/projects/task/reopen-task/1.png" width="40%">
    </td></tr></table>
 
 3. 以下のいずれかの操作を行います。
     - サイドバーの操作から[再開]アイコンをクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/task/reopen-task/2.png" width="30%">
+   <img src="/assets/images/projects/task/reopen-task/2.png" width="30%">
    </td></tr></table>
     
     - タスク右上の[編集]アイコンをクリックし、[作業を再開する]ボタンをクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/task/reopen-task/3.png" width="60%">
+   <img src="/assets/images/projects/task/reopen-task/3.png" width="60%">
    </td></tr></table>
 
     - 右クリック(iPad:タッチ&ホールド)でコンテキストメニューを開き、[再開]を選択します。
@@ -39,5 +39,5 @@ has_children: false
     タスク、それに付随する次のネットワーク線が元の表示になります。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/task/reopen-task/4.png" width="40%">
+   <img src="/assets/images/projects/task/reopen-task/4.png" width="40%">
    </td></tr></table>

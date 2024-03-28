@@ -24,7 +24,7 @@ has_children: false
 3. プロジェクト名、期間、プロジェクトメンバーを選択し、[作成する]ボタンをクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/manage-project/1.png">
+   <img src="/assets/images/projects/manage-project/1.png">
    </td></tr></table>
 
 {: .note }
@@ -36,13 +36,13 @@ has_children: false
 2. プロジェクト一覧の[...]のドロップダウンメニューから[プロジェクトの設定]をクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/manage-project/2.png" width="30%">
+   <img src="/assets/images/projects/manage-project/2.png" width="30%">
    </td></tr></table>
 
 3. プロジェクト名、期間、プロジェクトメンバーを選択し、[変更する]ボタンをクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/manage-project/3.png">
+   <img src="/assets/images/projects/manage-project/3.png">
    </td></tr></table>
 
 {: .note }
@@ -54,19 +54,19 @@ has_children: false
 2. 設定メニューから[休日設定]をクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/manage-project/4.png" width="30%">
+   <img src="/assets/images/projects/manage-project/4.png" width="30%">
    </td></tr></table>
 
 3. 休日にしたい日付をクリックすると色が変わり、休日になります。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/manage-project/5.png" width="100%">
+   <img src="/assets/images/projects/manage-project/5.png" width="100%">
    </td></tr></table>
 
 4. 下にスクロールし、[確定]ボタンをクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/manage-project/6.png" width="100%">
+   <img src="/assets/images/projects/manage-project/6.png" width="100%">
    </td></tr></table>
 
 {: .note }
@@ -79,13 +79,13 @@ has_children: false
 2. 設定メニューから[プロジェクト設定]をクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/manage-project/7.png" width="30%">
+   <img src="/assets/images/projects/manage-project/7.png" width="30%">
    </td></tr></table>
 
 3. カレンダーから選択するか、工期に開始日、終了日を入力します。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/manage-project/8.png" width="100%">
+   <img src="/assets/images/projects/manage-project/8.png" width="100%">
    </td></tr></table>
 
 4. [確定]ボタンをクリックします。
@@ -99,7 +99,7 @@ has_children: false
 2. メニューから[印刷]をクリックします。またはCmd + Pキーを押します。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/manage-project/9.png" width="40%">
+   <img src="/assets/images/projects/manage-project/9.png" width="40%">
    </td></tr></table>
 
 3. 印刷プレビューが表示された後に、[印刷]ボタンをクリックします。
@@ -113,13 +113,13 @@ has_children: false
 2. プロジェクト一覧の[...]のドロップダウンメニューから[プロジェクトの複製]をクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/manage-project/10.png" width="30%">
+   <img src="/assets/images/projects/manage-project/10.png" width="30%">
    </td></tr></table>
 
 3. プロジェクト名、期間、プロジェクトメンバーを選択し、[複製する]ボタンをクリックします。  
 
    <table><tr><td>
-   <img src="../../assets/images/projects/manage-project/11.png" width="100%">
+   <img src="/assets/images/projects/manage-project/11.png" width="100%">
    </td></tr></table>
 
 {: .note }
@@ -133,13 +133,13 @@ has_children: false
 2. 設定メニューから[プロジェクトの削除]をクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/manage-project/12.png" width="30%">
+   <img src="/assets/images/projects/manage-project/12.png" width="30%">
    </td></tr></table>
 
 3. 画面の内容を確認し、チェックを入れてください。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/manage-project/13.png" width="60%">
+   <img src="/assets/images/projects/manage-project/13.png" width="60%">
    </td></tr></table>
 
 4. [削除する]ボタンをクリックします。
@@ -153,19 +153,19 @@ has_children: false
 2. プロジェクト一覧の[...]のドロップダウンメニューから[プロジェクトの設定]をクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/manage-project/14.png" width="30%">
+   <img src="/assets/images/projects/manage-project/14.png" width="30%">
    </td></tr></table>
 
 3. 画面下にある、[プロジェクトをアーカイブ]ボタンをクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/manage-project/15.png" width="100%">
+   <img src="/assets/images/projects/manage-project/15.png" width="100%">
    </td></tr></table>
 
 4. 画面の内容を確認し、[理解しました]ボタンをクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/manage-project/16.png" width="50%">
+   <img src="/assets/images/projects/manage-project/16.png" width="50%">
    </td></tr></table>
 
 {: .note }

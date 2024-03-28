@@ -23,7 +23,7 @@ has_children: false
 1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
 
    <table><tr><td>
-   <img src="../../assets/images/activetool-selection.png" width="52px">
+   <img src="/assets/images/activetool-selection.png" width="52px">
    </td></tr></table>
 
 2. タスクをクリックして選択します。
@@ -35,13 +35,13 @@ has_children: false
 4. チェックリスト欄の[+]アイコンをクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/task/create-checklist/1.png" width="80%">
+   <img src="/assets/images/projects/task/create-checklist/1.png" width="80%">
    </td></tr></table>
 
 5. チェックリストのテキストを入力します。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/task/create-checklist/2.png" width="60%">
+   <img src="/assets/images/projects/task/create-checklist/2.png" width="60%">
    </td></tr></table>
 
 {: .note }
@@ -52,7 +52,7 @@ has_children: false
 1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
 
    <table><tr><td>
-   <img src="../../assets/images/activetool-selection.png" width="52px">
+   <img src="/assets/images/activetool-selection.png" width="52px">
    </td></tr></table>
     
 2. タスクをクリックして選択します。
@@ -64,7 +64,7 @@ has_children: false
 4. チェックリスト一覧のチェックボックスをクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/task/create-checklist/3.png" width="60%">
+   <img src="/assets/images/projects/task/create-checklist/3.png" width="60%">
    </td></tr></table>
 
 ## チェックリストを削除する
@@ -72,7 +72,7 @@ has_children: false
 1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
 
    <table><tr><td>
-   <img src="../../assets/images/activetool-selection.png" width="52px">
+   <img src="/assets/images/activetool-selection.png" width="52px">
    </td></tr></table>
 
 2. タスクをクリックして選択します。
@@ -84,5 +84,5 @@ has_children: false
 4. チェックリスト一覧の[...]のドロップダウンメニューから[削除]を選択します。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/task/create-checklist/4.png" width="60%">
+   <img src="/assets/images/projects/task/create-checklist/4.png" width="60%">
    </td></tr></table>

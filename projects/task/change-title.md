@@ -12,7 +12,7 @@ has_children: false
 1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
 
    <table><tr><td>
-   <img src="../../assets/images/activetool-selection.png" width="52px">
+   <img src="/assets/images/activetool-selection.png" width="52px">
    </td></tr></table>
     
 2. 以下のいずれかの操作を行います。
@@ -25,7 +25,7 @@ has_children: false
 3. タイトルを入力します。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/task/change-title/1.png" width="40%">
+   <img src="/assets/images/projects/task/change-title/1.png" width="40%">
    </td></tr></table>
 
 4. キャンバス上での編集時：EscキーまたはCmd + Enterキーを押して編集を終了します。

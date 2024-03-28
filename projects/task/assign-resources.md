@@ -23,7 +23,7 @@ has_children: false
 1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
 
    <table><tr><td>
-   <img src="../../assets/images/activetool-selection.png" width="52px">
+   <img src="/assets/images/activetool-selection.png" width="52px">
    </td></tr></table>
 
 2. タスクをクリックして選択します。
@@ -35,13 +35,13 @@ has_children: false
 4. 関連リソースをクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/task/assign-resources/1.png" width="80%">
+   <img src="/assets/images/projects/task/assign-resources/1.png" width="80%">
    </td></tr></table>
 
 5. 選択候補から、関連付けるリソースを選択します。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/task/assign-resources/2.png" width="50%">
+   <img src="/assets/images/projects/task/assign-resources/2.png" width="50%">
    </td></tr></table>
 
 {: .note }
@@ -52,7 +52,7 @@ has_children: false
 1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
 
    <table><tr><td>
-   <img src="../../assets/images/activetool-selection.png" width="52px">
+   <img src="/assets/images/activetool-selection.png" width="52px">
    </td></tr></table>
 
 2. タスクをクリックして選択します。
@@ -64,11 +64,11 @@ has_children: false
 4. 関連リソースをクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/task/assign-resources/1.png" width="80%">
+   <img src="/assets/images/projects/task/assign-resources/1.png" width="80%">
    </td></tr></table>
 
 5. 関連リソースから、関連付けを解除するリソースを選択します。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/task/assign-resources/3.png" width="50%">
+   <img src="/assets/images/projects/task/assign-resources/3.png" width="50%">
    </td></tr></table>

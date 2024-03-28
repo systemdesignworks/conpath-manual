@@ -24,14 +24,14 @@ has_children: false
 1. [設定>アカウント設定]を開きます。
 
    <table><tr><td>
-   <img src="../../assets/images/settings/account.png" width="100%">
+   <img src="/assets/images/settings/account.png" width="100%">
    </td></tr></table>
 
 2. メールアドレス欄の[編集]アイコンをクリックします。
 3. 新しいメールアドレスを入力し、更新をクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/settings/account/1.png" width="50%">
+   <img src="/assets/images/settings/account/1.png" width="50%">
    </td></tr></table>
 
 4. 更新したメールアドレスにメールが届くので、メールの内容に従って進めてください。
@@ -41,12 +41,12 @@ has_children: false
 1. [設定>アカウント設定]を開きます。
 
    <table><tr><td>
-   <img src="../../assets/images/settings/account.png" width="100%">
+   <img src="/assets/images/settings/account.png" width="100%">
    </td></tr></table>
 
 2. パスワード欄の[編集]アイコンをクリックします。
 3. 現在のパスワード、新しいパスワードを入力し、更新をクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/settings/account/2.png" width="50%">
+   <img src="/assets/images/settings/account/2.png" width="50%">
    </td></tr></table>
