@@ -13,13 +13,13 @@ has_children: false
 2. 右クリック(iPad:タッチ&ホールド)でコンテキストメニューを開き、[ロック]を選択します。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/task/lock-task/1.png" width="60%">
+   <img src="/assets/images/projects/task/lock-task/1.png" width="60%">
    </td></tr></table>
 
     タスクがロックされ、タスクの左上にロックアイコンが表示されます。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/task/lock-task/2.png" width="30%">
+   <img src="/assets/images/projects/task/lock-task/2.png" width="30%">
    </td></tr></table>
     
 {: .warning }

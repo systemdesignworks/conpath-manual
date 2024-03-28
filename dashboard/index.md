@@ -18,7 +18,7 @@ has_children: false
 
 ## 各部の名称
 <table><tr><td>
-<img src="../../assets/images/dashboard/1.png">
+<img src="/assets/images/dashboard/1.png">
 </td></tr></table>
 
 ### リマインド

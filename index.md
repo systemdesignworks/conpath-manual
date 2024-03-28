@@ -6,7 +6,7 @@ has_children: true
 permalink: /
 ---
 
-![](../../assets/images/logo.png)
+![](/assets/images/logo.png)
 
 ## ConPathとは
 

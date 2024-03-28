@@ -12,20 +12,20 @@ has_children: false
 1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
 
    <table><tr><td>
-   <img src="../../assets/images/activetool-selection.png" width="52px">
+   <img src="/assets/images/activetool-selection.png" width="52px">
    </td></tr></table>
 
 2. タスクをクリックして選択します。
 3. タスク両端のいずれかのサークルをクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/task/change-period-task/1.png" width="40%">
+   <img src="/assets/images/projects/task/change-period-task/1.png" width="40%">
    </td></tr></table>
 
 4. 左右方向にドラッグし、目的のポイントでドロップします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/task/change-period-task/2.png" width="40%">
+   <img src="/assets/images/projects/task/change-period-task/2.png" width="40%">
    </td></tr></table>
 
 {: .note }

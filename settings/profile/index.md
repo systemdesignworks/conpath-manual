@@ -24,13 +24,13 @@ has_children: false
 1. [設定>プロフィール設定]を開きます。
 
    <table><tr><td>
-   <img src="../../assets/images/settings/profile.png" width="100%">
+   <img src="/assets/images/settings/profile.png" width="100%">
    </td></tr></table>
 
 2. ユーザー名を入力し、[更新]ボタンをクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/settings/profile/1.png" width="100%">
+   <img src="/assets/images/settings/profile/1.png" width="100%">
    </td></tr></table>
 
 ## プロフィール画像を変更する
@@ -38,7 +38,7 @@ has_children: false
 1. [設定>プロフィール設定]を開きます。
 
    <table><tr><td>
-   <img src="../../assets/images/settings/profile.png" width="100%">
+   <img src="/assets/images/settings/profile.png" width="100%">
    </td></tr></table>
 
 2. [変更する]ボタンをクリックします。
@@ -46,7 +46,7 @@ has_children: false
 4. 選択した画像で確定する場合、[更新する]ボタンを、取り消す場合、[キャンセル]ボタンをクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/settings/profile/2.png" width="100%">
+   <img src="/assets/images/settings/profile/2.png" width="100%">
    </td></tr></table>
 
 {: .note }

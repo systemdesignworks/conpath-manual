@@ -22,40 +22,40 @@ has_children: false
 1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
 
    <table><tr><td>
-   <img src="../../assets/images/activetool-selection.png" width="52px">
+   <img src="/assets/images/activetool-selection.png" width="52px">
    </td></tr></table>
 
 2. タスクをクリックして選択します。
 3. タスク終点から出ているサークルをクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/dependence/1.png" width="40%">
+   <img src="/assets/images/projects/dependence/1.png" width="40%">
    </td></tr></table>
   
 4. 依存対象にするタスクの始点/マイルストーンまでドラッグし、ホバーアニメーションが表示されている状態でドロップします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/dependence/2.png" width="40%">
+   <img src="/assets/images/projects/dependence/2.png" width="40%">
    </td></tr></table>
 
    クリティカルパス（キャンバス内で最も長い経路）に該当する場合、一連のタスクとネットワーク線が自動的に水色になります。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/dependence/3.png" width="40%">
+   <img src="/assets/images/projects/dependence/3.png" width="40%">
    </td></tr></table>
 
    既存のタスクの右側に隣接してタスクを作成すると自動的に依存関係になります。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/dependence/4.png" width="40%">
+   <img src="/assets/images/projects/dependence/4.png" width="40%">
    </td></tr></table>
 
    <table><tr><td>
-   <img src="../../assets/images/projects/dependence/5.png" width="40%">
+   <img src="/assets/images/projects/dependence/5.png" width="40%">
    </td></tr></table>
 
    <table><tr><td>
-   <img src="../../assets/images/projects/dependence/6.png" width="40%">
+   <img src="/assets/images/projects/dependence/6.png" width="40%">
    </td></tr></table>
 
 {: .warning }
@@ -69,20 +69,20 @@ has_children: false
 1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
 
    <table><tr><td>
-   <img src="../../assets/images/activetool-selection.png" width="52px">
+   <img src="/assets/images/activetool-selection.png" width="52px">
    </td></tr></table>
 
 2. ネットワーク線をクリックして選択します。
 3. ネットワーク線両端のいずれかのサークルをクリックします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/dependence/7.png" width="40%">
+   <img src="/assets/images/projects/dependence/7.png" width="40%">
    </td></tr></table>
   
 4. 変更先依存対象のタスク/マイルストーンまでドラッグし、ホバーアニメーションが表示されている状態でドロップします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/dependence/8.png" width="40%">
+   <img src="/assets/images/projects/dependence/8.png" width="40%">
    </td></tr></table>
   
 {: .warning }    
@@ -96,19 +96,19 @@ has_children: false
 1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
 
    <table><tr><td>
-   <img src="../../assets/images/activetool-selection.png" width="52px">
+   <img src="/assets/images/activetool-selection.png" width="52px">
    </td></tr></table>
 
 2. ネットワーク線をクリックして選択します。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/dependence/9.png" width="60%">
+   <img src="/assets/images/projects/dependence/9.png" width="60%">
    </td></tr></table>
 
 3. ネットワーク線中央のアイコンをドラッグします。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/dependence/10.png" width="60%">
+   <img src="/assets/images/projects/dependence/10.png" width="60%">
    </td></tr></table>
 
 ## 依存関係のタスクを強調表示する
@@ -116,25 +116,25 @@ has_children: false
 画面上の要素が無いところで右クリック(iPad:タッチ&ホールド)し、コンテキストメニューから[依存関係のタスクを強調表示]、[非依存関係のタスクを透過表示]を選択します。いずれか、あるいは両方を適用することができます。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/dependence/11.png" width="50%">
+   <img src="/assets/images/projects/dependence/11.png" width="50%">
    </td></tr></table>
 
 - [依存関係のタスクを強調表示]適用
 
    <table><tr><td>
-   <img src="../../assets/images/projects/dependence/12.png" width="60%">
+   <img src="/assets/images/projects/dependence/12.png" width="60%">
    </td></tr></table>
 
 - [非依存関係のタスクを透過表示]適用
 
    <table><tr><td>
-   <img src="../../assets/images/projects/dependence/13.png" width="60%">
+   <img src="/assets/images/projects/dependence/13.png" width="60%">
    </td></tr></table>
 
 - [依存関係のタスクを強調表示]と[非依存関係のタスクを透過表示]適用
 
    <table><tr><td>
-   <img src="../../assets/images/projects/dependence/14.png" width="60%">
+   <img src="/assets/images/projects/dependence/14.png" width="60%">
    </td></tr></table>
 
 ## ネットワーク線をロックする
@@ -143,13 +143,13 @@ has_children: false
 2. 右クリック(iPad:タッチ&ホールド)でコンテキストメニューを開き、[ロック]を選択します。
 
    <table><tr><td>
-   <img src="../../assets/images/projects/dependence/15.png" width="60%">
+   <img src="/assets/images/projects/dependence/15.png" width="60%">
    </td></tr></table>
 
     ネットワーク線がロックされ、ロックアイコンが表示されます。
     
    <table><tr><td>
-   <img src="../../assets/images/projects/dependence/16.png" width="60%">
+   <img src="/assets/images/projects/dependence/16.png" width="60%">
    </td></tr></table>
 
 {: .note }
@@ -161,7 +161,7 @@ has_children: false
 2. 右クリック(iPad:タッチ&ホールド)でコンテキストメニューを開き、[ロック解除]を選択します。
     
    <table><tr><td>
-   <img src="../../assets/images/projects/dependence/17.png" width="60%">
+   <img src="/assets/images/projects/dependence/17.png" width="60%">
    </td></tr></table>
 
 タスクのロックが解除されます。
