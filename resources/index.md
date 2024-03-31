@@ -46,7 +46,7 @@ has_children: true
   {: .note }
   タスクの管理方法は
   [こちら](/projects/task/)をご確認ください。
-  <br>また、担当者とリソースの紐付け方法は [担当者](/projects/task/assign-users/) と [関連リソース](/projects/task/assign-resources/) をご確認ください。
+  <br>また、担当者とリソースの紐付け方法は [担当者](/projects/task/assign-users) と [関連リソース](/projects/task/assign-resources) をご確認ください。
 
   {: .warning }
   ログインされたユーザーに招待、または管理権限のあるプロジェクトのタスクのみが表示されます。
