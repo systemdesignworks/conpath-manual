@@ -44,6 +44,25 @@ has_children: false
 {: .note }
 この設定は組織の権限がオーナーのみ可能です。
 
+## 招待されたユーザーの操作
+
+1. ConPathのアカウントを作成します。  
+招待メールのリンクをクリックし自身のユーザー名とパスワードを入力します。
+
+   <table><tr><td>
+   <img src="/assets/images/settings/users/user_registration.png" width="60%">
+   </td></tr></table>
+
+2. プロジェクトに参加するのボタンを押すことで参加、  
+辞退するを押すと作成されたアカウントを削除しプロジェクトへの参加をキャンセルできます。
+
+   <table><tr><td>
+   <img src="/assets/images/settings/users/entry.png" width="60%">
+   </td></tr></table>
+
+{: .note }
+プロジェクトへの参加を誤って辞退した場合、同じ招待リンクよりもう一度、１.ConPathアカウント作成からの手順をお試しください。
+
 ## メンバーのユーザー情報を変更する
 
 1. [設定>ユーザー管理]を開きます。
