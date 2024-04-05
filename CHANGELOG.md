@@ -7,11 +7,11 @@ layout: default
 
 <!-- All notable user-facing changes to this project are documented in this file. -->
 
-<!-- ## 2024-02-26
+## Release v1.1.0
 
-アップデート内容:
-- テストテスト -->
+### 追加機能
+- 複数のタスクの[担当者](/projects/task/assign-users#複数のタスクの担当者をまとめてアサインアサイン解除する)、[関連リソース](/projects/task/assign-resources#複数のタスクのリソースをまとめて関連付け関連付けを解除する)をまとめて登録できるようになりました
 
-### 2024/04/01 
+## Release v1.0.0
 
 - 初版発行
