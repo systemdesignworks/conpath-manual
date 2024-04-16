@@ -11,7 +11,7 @@ layout: default
 
 ### 新機能
 - [チーム管理](/settings/teams/)で組織内のメンバーをグループ単位で登録できるようになりました
-- [タスクの始点、終点のデザイン](/projects/task/change-head-design/)が変更できるようになりました
+- [タスクの始点、終点のデザイン](/projects/task/change-head-design)が変更できるようになりました
 - プロジェクト一覧で並べ替えができるようになりました
 
 ## Release v1.1.0
