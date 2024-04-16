@@ -9,7 +9,7 @@ has_children: false
 # チーム管理
 {: .no_toc }
 
-チーム管理では、組織のメンバーをグループで登録することができます。登録したチームを[プロジェクトに割り当てる]({% link projects/manage-project/index.md %})ことで、ユーザーの管理が容易になります。
+チーム管理では、組織のメンバーをグループ単位で登録することができます。登録したチームを[プロジェクトに割り当てる]({% link projects/manage-project/index.md %})ことで、ユーザーの管理が容易になります。
 
 ## 目次
 {: .no_toc .text-delta }
