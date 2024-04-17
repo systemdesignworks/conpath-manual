@@ -3,7 +3,7 @@ layout: default
 title: タスクの始点、終点のデザインを変更する
 parent: タスクの作成・編集
 grand_parent: プロジェクト
-nav_order: 15
+nav_order: 16
 has_children: false
 ---
 
