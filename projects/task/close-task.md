@@ -41,3 +41,6 @@ has_children: false
    <table><tr><td>
    <img src="/assets/images/projects/task/close-task/4.png" width="40%">
    </td></tr></table>
+
+{: .note }
+クリティカルパス（依存関係にあるタスクを含むキャンバス内で最も長い経路）は自動的に水色になります。クリティカルパスの色は[設定>一般]({% link settings/general/index.md %}#クリティカルパスの色を変更する)から変更できます。
