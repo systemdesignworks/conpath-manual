@@ -60,11 +60,7 @@ has_children: false
 
 マイルストーンが設定されているタスクグループでは、<br>
 マイルストーンとその前のタスクの間で日数の余白がある場合、余裕日数としてチャートに表示されます。
-余裕日数は日数に応じて色が変化します。
 
-- 1日 ~ 4日: <span style="background:red; color:white;">赤色</span>
-- 5日 ~ 9日: <span style="background:yellow; color:black;">黄色</span>
-- 10日~ 灰色: <span style="background:gray; color:white">灰色</span>
 
 
   <table><tr><td>
@@ -76,5 +72,8 @@ has_children: false
     <img src="/assets/images/roadmap/progress/7.png" width="80%">
   </td></tr></table>
 
+  {: .note }
+  余裕日数は日数に応じて色が変化し、アラート(5日以内)が赤色、警告(10日以内)が黄色で表示されます。
+  日数は[設定>一般]({% link settings/general/index.md %}#マイルストーンまでの余裕日数を変更する)から変更できます。
 
 ---
