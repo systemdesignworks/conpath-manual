@@ -24,7 +24,7 @@ has_children: false
 1. [設定>一般]を開きます。
 
    <table><tr><td>
-   <img src="/assets/images/settings/general.png" width="100%">
+   <img src="/assets/images/settings/general/5.png" width="100%">
    </td></tr></table>
 
 2. 組織名を変更し、[更新]ボタンをクリックします。
@@ -44,6 +44,26 @@ has_children: false
 {: .note }
 デフォルトは水色です。  
 この設定は組織の権限がオーナー、メンバーのみ可能です。
+
+## ヘッダーロゴ画像を変更する
+
+1. [設定>一般]を開きます。
+
+2. [変更する]ボタンをクリックします。
+
+   <table><tr><td>
+   <img src="/assets/images/settings/general/3.png" width="100%">
+   </td></tr></table>
+![Alt text](image.png)
+3. ファイル選択のエクスプローラーで、プロフィール画像を選択します。
+4. 選択した画像で確定する場合、[更新する]ボタンを、取り消す場合、[キャンセル]ボタンをクリックします。
+
+   <table><tr><td>
+   <img src="/assets/images/settings/general/4.png" width="100%">
+   </td></tr></table>
+{: .note }
+設定したプロジェクトを印刷した際のヘッダー画像として表示されます。
+
 
 ## マイルストーンまでの余裕日数を変更する
 

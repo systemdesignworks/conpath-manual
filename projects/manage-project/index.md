@@ -104,7 +104,28 @@ has_children: false
    <img src="/assets/images/projects/manage-project/9.png" width="40%">
    </td></tr></table>
 
-3. 印刷プレビューが表示された後に、[印刷]ボタンをクリックします。
+3. 印刷プレビューが表示された後に、印刷のオプションを編集することができます。
+   <table><tr><td>
+      <img src="/assets/images/projects/manage-project/17.png" width="80%">
+   </td></tr></table>
+
+   - 印刷する日付の範囲をカレンダーから選択することが可能です。
+   <table><tr><td>
+      <img src="/assets/images/projects/manage-project/18.png" width="50%">
+   </td></tr></table>
+
+   - 印刷ヘッダーの値を編集可能です。
+   > タイトル(プロジェクト名)<br>サブタイトル<br>備考欄<br>ロゴ(設定画面で設定したイメージファイル)<br>日付(作成日)
+   <table><tr><td>
+      <img src="/assets/images/projects/manage-project/19.png" width="60%">
+   </td></tr></table>
+
+   - 印刷時に、1ページに収めるか選択可能です。
+   <table><tr><td>
+      <img src="/assets/images/projects/manage-project/20.png" width="40%">
+   </td></tr></table>
+
+4. [印刷]ボタンをクリックして、印刷を開始します。
 
 {: .warning }
 工期が長い場合、プレビュー表示に時間がかかる場合があります。
