@@ -7,6 +7,11 @@ layout: default
 
 <!-- All notable user-facing changes to this project are documented in this file. -->
 
+## Release v1.3.0
+
+### 新機能
+- プロジェクトの印刷時に、印刷ヘッダーや印刷方法などを変更できるようになりました
+
 ## Release v1.2.0
 
 ### 新機能
