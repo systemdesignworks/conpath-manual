@@ -145,7 +145,7 @@ has_children: false
    <img src="/assets/images/projects/row-header/15.png" width="80%">
    </td></tr></table>
 
-3. テキストを入力し、EscキーまたはCmd + Enterキーを押して編集を終了します。
+3. テキストを入力し、EscキーまたはCtrl(MacOSは Cmd) + Enterキーを押して編集を終了します。
     
    <table><tr><td>
    <img src="/assets/images/projects/row-header/16.png" width="80%">
