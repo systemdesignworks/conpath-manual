@@ -39,6 +39,20 @@ has_children: false
    <img src="/assets/images/settings/users/2.png" width="100%">
    </td></tr></table>
 
+   所属するチームを選択する場合、[...]のドロップダウンメニューから[チームを選択する]を選択します。
+
+   <table><tr><td>
+   <img src="/assets/images/settings/users/3.png" width="100%">
+   </td></tr></table>
+
+   <table><tr><td>
+   <img src="/assets/images/settings/users/4.png" width="100%">
+   </td></tr></table>
+
+   <table><tr><td>
+   <img src="/assets/images/settings/users/5.png" width="100%">
+   </td></tr></table>
+
 4. 追加したメールアドレス宛に招待メールが届きます。
 
 {: .note }
@@ -69,13 +83,13 @@ has_children: false
 2. メンバー一覧のメンバータブがアクティブになっている状態で、[...]のドロップダウンメニューから[ユーザー情報の編集]をクリックします。
 
    <table><tr><td>
-   <img src="/assets/images/settings/users/3.png" width="100%">
+   <img src="/assets/images/settings/users/6.png" width="100%">
    </td></tr></table>
 
 3. ユーザーの情報を入力し、[変更する]ボタンをクリックします。
 
    <table><tr><td>
-   <img src="/assets/images/settings/users/4.png" width="50%">
+   <img src="/assets/images/settings/users/7.png" width="50%">
    </td></tr></table>
 
 {: .note }
@@ -87,7 +101,7 @@ has_children: false
 2. メンバー一覧の招待中タブがアクティブになっている状態で、[...]のドロップダウンメニューから[招待をキャンセルする]をクリックします。
 
    <table><tr><td>
-   <img src="/assets/images/settings/users/5.png" width="100%">
+   <img src="/assets/images/settings/users/8.png" width="100%">
    </td></tr></table>
 
 {: .note }
@@ -99,7 +113,7 @@ has_children: false
 2. メンバー一覧のメンバータブがアクティブになっている状態で、[...]のドロップダウンメニューから[退会させる]をクリックします。
 
    <table><tr><td>
-   <img src="/assets/images/settings/users/6.png" width="100%">
+   <img src="/assets/images/settings/users/9.png" width="100%">
    </td></tr></table>
 
 {: .note }
