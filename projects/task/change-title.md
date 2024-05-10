@@ -28,6 +28,6 @@ has_children: false
    <img src="/assets/images/projects/task/change-title/1.png" width="40%">
    </td></tr></table>
 
-4. キャンバス上での編集時：EscキーまたはCmd + Enterキーを押して編集を終了します。
+4. キャンバス上での編集時：EscキーまたはCtrl(MacOSは Cmd) + Enterキーを押して編集を終了します。
 
    編集画面：[×]アイコンをクリックして編集画面を閉じます。

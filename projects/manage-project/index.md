@@ -98,34 +98,100 @@ has_children: false
 ## プロジェクトを印刷する
 
 1. プロジェクトを開きます。
-2. メニューから[印刷]をクリックします。またはCmd + Pキーを押します。
+
+2. メニューから[印刷]をクリックします。またはCtrl(MacOSは Cmd) + Pキーを押します。
 
    <table><tr><td>
    <img src="/assets/images/projects/manage-project/9.png" width="40%">
    </td></tr></table>
 
-3. 印刷プレビューが表示された後に、印刷のオプションを編集することができます。
+3. 印刷プレビューが表示されます。
+
+4. 必要に応じて、印刷のオプションを変更してください。
+
    <table><tr><td>
-      <img src="/assets/images/projects/manage-project/17.png" width="80%">
+   <img src="/assets/images/projects/manage-project/17.png" width="100%">
    </td></tr></table>
 
-   - 印刷する日付の範囲をカレンダーから選択することが可能です。
+   <table>
+      <tr>
+         <th>オプション名</th>
+         <th>説明</th>
+         <th>初期値</th>
+      </tr>
+      <tr>
+         <td>選択範囲</td>
+         <td>印刷する期間を日付で指定できます。</td>
+         <td>当月〜3ヶ月間</td>
+      </tr>
+      <tr>
+         <td>ヘッダー</td>
+         <td>印刷のヘッダーを編集できます。チェックでヘッダーの表示と非表示を切り替えられます。
+            <br>編集できる内容は次項に記載しています。
+         </td>
+         <td>チェック</td>
+      </tr>
+      <tr>
+         <td>用紙の向き</td>
+         <td>用紙の横縦の向きを変更できます。</td>
+         <td>横</td>
+      </tr>
+      <tr>
+         <td>ページ送り</td>
+         <td>1ページに収めるか、複数ページに分けて印刷するかが選択可能です。
+            <br>複数ページに分ける場合は、横方向(日付方向)または、縦方向かでページ分け方法を選択することができます。
+         </td>
+         <td>複数ページ・横方向</td>
+      </tr>
+   </table>
+
+5. 必要に応じて、<img src="/assets/images/projects/manage-project/18.png" style="height: 32px">をクリックして、印刷のヘッダーを変更してください。
+
    <table><tr><td>
-      <img src="/assets/images/projects/manage-project/18.png" width="50%">
+   <img src="/assets/images/projects/manage-project/19.png" width="100%">
    </td></tr></table>
 
-   - 印刷ヘッダーの値を編集可能です。
-   > タイトル(プロジェクト名)<br>サブタイトル<br>備考欄<br>ロゴ(設定画面で設定したイメージファイル)<br>日付(作成日)
+   <table>
+      <tr>
+         <th>オプション名</th>
+         <th>説明</th>
+         <th>初期値</th>
+      </tr>
+      <tr>
+         <td>タイトル・サブタイトル</td>
+         <td>-</td>
+         <td>タイトル: プロジェクト名<br>サブタイトル: 空白</td>
+      </tr>
+      <tr>
+         <td>備考欄</td>
+         <td>-</td>
+         <td>空白</td>
+      </tr>
+      <tr>
+         <td>組織名</td>
+         <td>-</td>
+         <td>設定画面で登録した組織名</td>
+      </tr>
+      <tr>
+         <td>ロゴ</td>
+         <td>印刷時のみ画像をアップロードすることが可能です。
+            <br>印刷時にアップロードした画像は、設定画面には反映されません。
+         </td>
+         <td>設定画面で登録したロゴ画像ファイル</td>
+      </tr>
+      <tr>
+         <td>作成日</td>
+         <td>-</td>
+         <td>当日の日付</td>
+      </tr>
+   </table>
+
+6. 印刷プレビューが表示された後に、[印刷]ボタンをクリックします。
    <table><tr><td>
-      <img src="/assets/images/projects/manage-project/19.png" width="60%">
+   <img src="/assets/images/projects/manage-project/20.png" width="100%">
    </td></tr></table>
 
-   - 印刷時に、1ページに収めるか選択可能です。
-   <table><tr><td>
-      <img src="/assets/images/projects/manage-project/20.png" width="40%">
-   </td></tr></table>
-
-4. [印刷]ボタンをクリックして、印刷を開始します。
+7. 印刷が開始されます。
 
 {: .warning }
 工期が長い場合、プレビュー表示に時間がかかる場合があります。

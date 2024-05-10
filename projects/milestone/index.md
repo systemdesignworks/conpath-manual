@@ -83,4 +83,4 @@ has_children: false
    <img src="/assets/images/projects/milestone/4.png" width="40%">
    </td></tr></table>
 
-4. EscキーまたはCmd + Enterキーを押して編集を終了します。
+4. EscキーまたはCtrl(MacOSは Cmd) + Enterキーを押して編集を終了します。

@@ -28,7 +28,7 @@ has_children: false
    <img src="/assets/images/projects/task/create-task/2.png" width="40%">
    </td></tr></table>
 
-4. タイトルを入力し、EscキーまたはCmd + Enterキーを押して編集を終了します。
+4. タイトルを入力し、EscキーまたはCtrl(MacOSは Cmd) + Enterキーを押して編集を終了します。
    
    <table><tr><td>
    <img src="/assets/images/projects/task/create-task/3.png" width="40%">
