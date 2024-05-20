@@ -54,7 +54,7 @@ has_children: false
    <table><tr><td>
    <img src="/assets/images/settings/general/3.png" width="100%">
    </td></tr></table>
-![Alt text](image.png)
+
 3. ファイル選択のエクスプローラーで、プロフィール画像を選択します。
 4. 選択した画像で確定する場合、[更新する]ボタンを、取り消す場合、[キャンセル]ボタンをクリックします。
 
