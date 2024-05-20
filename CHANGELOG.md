@@ -7,6 +7,13 @@ layout: default
 
 <!-- All notable user-facing changes to this project are documented in this file. -->
 
+## Release v1.3.1
+
+### 新機能
+- ロードマップ画面の進捗状況の表示形式で日数が選択できるようになりました
+- ロードマップ画面のマイルストーンのバーに余裕日数が表示されるようになりました
+- リソース画面の担当者、リソースのバーに期間の重複、余白が表示されるようになりました
+
 ## Release v1.3.0
 
 ### 新機能

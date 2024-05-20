@@ -19,12 +19,14 @@ has_children: false
 
 ### プロジェクトの進捗管理
 
-各プロジェクトの進捗率を確認することができます。
-<br>進捗率は
-- 各プロジェクトの完了率
-- タスクの完了個数/タスクの総数
+各プロジェクトの進捗状況を確認することができます。
+<br>進捗状況は
+- タスクの完了数/タスクの総数
+- タスクの完了数(%)
+- タスクの完了日数/タスクの総日数
+- タスクの完了日数(%)
 
-の2種類で確認することができます。
+の4種類で確認することができます。
 
   <table><tr><td>
     <img src="/assets/images/roadmap/progress/1.png">
@@ -34,12 +36,20 @@ has_children: false
     <img src="/assets/images/roadmap/progress/2.png">
   </td></tr></table>
 
-進捗率の表示は以下の方法で切り替えることができます。
-1. 画面下の <img src="/assets/images/roadmap/progress/3.png" style="height:40px"> をクリックします。
-2. [タスク完了個数で表示する]または[完了率で表示する]をクリックして、進捗の表示方法を切り替えます。
+  <table><tr><td>
+    <img src="/assets/images/roadmap/progress/3.png">
+  </td></tr></table>
 
   <table><tr><td>
-    <img src="/assets/images/roadmap/progress/4.png" width="80%">
+    <img src="/assets/images/roadmap/progress/4.png">
+  </td></tr></table>
+
+進捗状況の表示は以下の方法で切り替えることができます。
+1. 画面下の <img src="/assets/images/roadmap/progress/5.png" style="height:40px"> をクリックします。
+2. ドロップダウンメニューからいずれかをクリックして、進捗の表示方法を切り替えます。
+
+  <table><tr><td>
+    <img src="/assets/images/roadmap/progress/6.png" width="80%">
   </td></tr></table>
 
 ---
@@ -50,7 +60,7 @@ has_children: false
 <br>また、チャートでタスクをマウスでホバーすると[期限を過ぎています]とメッセージが表示されます。
 
   <table><tr><td>
-    <img src="/assets/images/roadmap/progress/5.png" width="80%">
+    <img src="/assets/images/roadmap/progress/7.png" width="80%">
   </td></tr></table>
 
 
@@ -64,12 +74,12 @@ has_children: false
 
 
   <table><tr><td>
-    <img src="/assets/images/roadmap/progress/6.png" width="80%">
+    <img src="/assets/images/roadmap/progress/8.png" width="80%">
   </td></tr></table>
 
 
   <table><tr><td>
-    <img src="/assets/images/roadmap/progress/7.png" width="80%">
+    <img src="/assets/images/roadmap/progress/9.png" width="80%">
   </td></tr></table>
 
   {: .note }
