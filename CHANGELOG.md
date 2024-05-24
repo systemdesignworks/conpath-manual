@@ -7,6 +7,11 @@ layout: default
 
 <!-- All notable user-facing changes to this project are documented in this file. -->
 
+## Release v1.3.2
+
+### 新機能
+- プロジェクト画面で[行のコピー](/projects/row-header#行のコピー)ができるようになりました
+
 ## Release v1.3.1
 
 ### 新機能
