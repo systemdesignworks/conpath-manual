@@ -150,3 +150,22 @@ has_children: false
    <table><tr><td>
    <img src="/assets/images/projects/row-header/16.png" width="80%">
    </td></tr></table>
+
+## 行のコピー
+
+1. コピーする行の行ヘッダー上で右クリック(iPad:タッチ&ホールド)でコンテキストメニューを開き、[行のコピー]を選択します。
+
+   <table><tr><td>
+   <img src="/assets/images/projects/row-header/17.png" width="100%">
+   </td></tr></table>
+
+2. コピーしたい箇所の行ヘッダー上で右クリック(iPad:タッチ&ホールド)でコンテキストメニューを開き、[上に貼り付け]または[下に貼り付け]を選択します。
+
+   <table><tr><td>
+   <img src="/assets/images/projects/row-header/18.png" width="100%">
+   </td></tr></table>
+
+   行ヘッダーと行内にあるタスク、マイルストーンが貼り付けされます。
+   <table><tr><td>
+   <img src="/assets/images/projects/row-header/19.png" width="100%">
+   </td></tr></table>
