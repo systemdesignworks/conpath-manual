@@ -29,7 +29,8 @@ has_children: false
     </td></tr></table>
 
   {: .note }
-  [設定>リソース管理]({% link settings/resources/index.md %})でアクティブのリソースが選択候補に表示されます。
+  [設定>リソース管理]({% link settings/resources/index.md %})でアクティブのリソースが選択候補に表示されます。  
+  プロジェクト設定で設定されたプロジェクトリソースが優先表示されます。
 
 ## リソースの関連付けを解除する
 

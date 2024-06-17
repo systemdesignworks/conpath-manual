@@ -21,7 +21,7 @@ has_children: false
 
 1. プロジェクト一覧を開きます。
 2. [+新規プロジェクト]ボタンをクリックします。
-3. プロジェクト名、期間、プロジェクトメンバー / チームを選択し、[作成する]ボタンをクリックします。
+3. プロジェクト名、カラー、期間、プロジェクトメンバー / チームを選択し、[作成する]ボタンをクリックします。
 
    <table><tr><td>
    <img src="/assets/images/projects/manage-project/1.png">
@@ -40,7 +40,7 @@ has_children: false
    <img src="/assets/images/projects/manage-project/2.png" width="30%">
    </td></tr></table>
 
-3. プロジェクト名、期間、プロジェクトメンバー / チームを選択し、[変更する]ボタンをクリックします。
+3. プロジェクト名、カラー、期間、プロジェクトメンバー / チームを選択し、[変更する]ボタンをクリックします。
 
    <table><tr><td>
    <img src="/assets/images/projects/manage-project/3.png">
@@ -205,7 +205,7 @@ has_children: false
    <img src="/assets/images/projects/manage-project/10.png" width="30%">
    </td></tr></table>
 
-3. プロジェクト名、期間、プロジェクトメンバー / チームを選択し、[複製する]ボタンをクリックします。  
+3. プロジェクト名、カラー、期間、プロジェクトメンバー / チームを選択し、[複製する]ボタンをクリックします。  
 
    <table><tr><td>
    <img src="/assets/images/projects/manage-project/11.png" width="100%">
