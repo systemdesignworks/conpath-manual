@@ -7,6 +7,11 @@ layout: default
 
 <!-- All notable user-facing changes to this project are documented in this file. -->
 
+## Release v1.3.5
+
+### 新機能
+- プロジェクト設定でタグが設定できるようになりました
+
 ## Release v1.3.4
 
 ### 新機能
