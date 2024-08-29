@@ -71,13 +71,29 @@ has_children: false
 {: .note }
 この設定は組織の権限がオーナー、メンバーのみ可能です。
 
+## リソースの並べ替えをする
+
+1. [設定>リソース管理]を開きます。
+2. リソース一覧で、並べ替えたい行の[ハンドル]アイコンをクリックし、ドラッグアンドドロップで移動させます。
+
+   <table><tr><td>
+   <img src="/assets/images/settings/resources/5.png" width="100%">
+   </td></tr></table>
+
+   <table><tr><td>
+   <img src="/assets/images/settings/resources/6.png" width="100%">
+   </td></tr></table>
+
+{: .note }
+設定した並び順はリソースや関連リソースの選択候補にも反映されます。
+
 ## リソースを非アクティブにする
 
 1. [設定>リソース管理]を開きます。
 2. リソース一覧のリソースのアクティブ列の[チェックボックス]をクリックし、チェックを外します。
 
    <table><tr><td>
-   <img src="/assets/images/settings/resources/5.png" width="100%">
+   <img src="/assets/images/settings/resources/7.png" width="100%">
    </td></tr></table>
 
 {: .note }
