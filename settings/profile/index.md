@@ -2,7 +2,7 @@
 layout: default
 title: プロフィール設定
 parent: 設定
-nav_order: 5
+nav_order: 6
 has_children: false
 ---
 
