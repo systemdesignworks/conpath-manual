@@ -7,6 +7,11 @@ layout: default
 
 <!-- All notable user-facing changes to this project are documented in this file. -->
 
+## Release v1.5.0
+
+### 新機能
+- [レイヤー](/projects/layer/)が追加できるようになりました
+
 ## Release v1.4.0
 
 ### 新機能
