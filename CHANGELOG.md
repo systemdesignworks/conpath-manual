@@ -7,6 +7,14 @@ layout: default
 
 <!-- All notable user-facing changes to this project are documented in this file. -->
 
+## Release v1.5.1
+
+### 新機能
+- タスクごとにクリティカルパス計算の対象/対象外を選択できるようになりました
+- タスク複製時の担当者、関連リソース引き継ぎON/OFFが切り替えられるようになりました
+- ロードマップ画面でプロジェクトのタグで検索できるようになりました
+- リソース画面でリソースのタグで検索できるようになりました
+
 ## Release v1.5.0
 
 ### 新機能
