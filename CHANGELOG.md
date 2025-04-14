@@ -7,6 +7,12 @@ layout: default
 
 <!-- All notable user-facing changes to this project are documented in this file. -->
 
+## Release v1.5.2
+
+### 新機能
+- リソース画面でタスクに登録された担当者をチーム単位で検索できるようになりました
+- [レイヤーに属するタスクの有効/無効の切り替え](/projects/layer/#レイヤーに属するタスクの有効無効の切り替え)ができるようになりました
+
 ## Release v1.5.1
 
 ### 新機能
