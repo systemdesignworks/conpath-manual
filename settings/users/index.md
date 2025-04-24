@@ -95,13 +95,29 @@ has_children: false
 {: .note }
 この設定は組織の権限がオーナーのみ可能です。
 
+## メンバーの並べ替えをする
+
+1. [設定>ユーザー管理]を開きます。
+2. メンバー一覧のメンバータブがアクティブになっている状態で、並べ替えたい行の[ハンドル]アイコンをクリックし、ドラッグアンドドロップで移動させます。
+
+   <table><tr><td>
+   <img src="/assets/images/settings/users/8.png" width="100%">
+   </td></tr></table>
+
+   <table><tr><td>
+   <img src="/assets/images/settings/users/9.png" width="100%">
+   </td></tr></table>
+
+{: .note }
+設定した並び順はリソースや担当者の選択候補にも反映されます。
+
 ## メンバーの招待をキャンセルする
 
 1. [設定>ユーザー管理]を開きます。
 2. メンバー一覧の招待中タブがアクティブになっている状態で、[...]のドロップダウンメニューから[招待をキャンセルする]をクリックします。
 
    <table><tr><td>
-   <img src="/assets/images/settings/users/8.png" width="100%">
+   <img src="/assets/images/settings/users/10.png" width="100%">
    </td></tr></table>
 
 {: .note }
@@ -113,7 +129,7 @@ has_children: false
 2. メンバー一覧のメンバータブがアクティブになっている状態で、[...]のドロップダウンメニューから[退会させる]をクリックします。
 
    <table><tr><td>
-   <img src="/assets/images/settings/users/9.png" width="100%">
+   <img src="/assets/images/settings/users/11.png" width="100%">
    </td></tr></table>
 
 {: .note }
