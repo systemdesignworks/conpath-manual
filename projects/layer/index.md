@@ -124,6 +124,26 @@ has_children: false
 
 3. タイトルを入力し、Enterキーを押して編集を終了します。
 
+## レイヤーの複製
+
+1. キャンバス右下にある[レイヤー]アイコンをクリックします。
+
+   <table><tr><td>
+   <img src="/assets/images/projects/layer/1.png" width="52px">
+   </td></tr></table>
+
+2. 複製したいレイヤーの[...]のドロップダウンメニューから[レイヤーの複製]ボタンをクリックします。
+
+   <table><tr><td>
+   <img src="/assets/images/projects/layer/10.png" width="100%">
+   </td></tr></table>
+
+   レイヤーとレイヤー内の要素が複製されます。
+
+   <table><tr><td>
+   <img src="/assets/images/projects/layer/11.png" width="100%">
+   </td></tr></table>
+
 ## レイヤーの削除
 
 1. キャンバス右下にある[レイヤー]アイコンをクリックします。
@@ -135,7 +155,7 @@ has_children: false
 2. 削除したいレイヤーの[...]のドロップダウンメニューから[削除]ボタンをクリックします。
 
    <table><tr><td>
-   <img src="/assets/images/projects/layer/10.png" width="60%">
+   <img src="/assets/images/projects/layer/12.png" width="60%">
    </td></tr></table>
 
 {: .warning }
