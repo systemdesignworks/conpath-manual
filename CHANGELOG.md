@@ -7,6 +7,11 @@ layout: default
 
 <!-- All notable user-facing changes to this project are documented in this file. -->
 
+## Release v1.5.4
+
+### 新機能
+- [レイヤーの複製](/projects/layer/#レイヤーの複製)ができるようになりました
+
 ## Release v1.5.3
 
 ### 新機能
