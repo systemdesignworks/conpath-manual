@@ -7,6 +7,11 @@ layout: default
 
 <!-- All notable user-facing changes to this project are documented in this file. -->
 
+## Release v1.5.5
+
+### 新機能
+- プロジェクト画面で選択中のタスクの始点と終点に日付が表示されるようになりました
+
 ## Release v1.5.4
 
 ### 新機能
