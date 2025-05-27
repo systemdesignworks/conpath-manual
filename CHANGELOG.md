@@ -7,6 +7,11 @@ layout: default
 
 <!-- All notable user-facing changes to this project are documented in this file. -->
 
+## Release v1.5.6
+
+### 新機能
+- ネットワーク線の終点のデザインが変更できるようになりました
+
 ## Release v1.5.5
 
 ### 新機能
