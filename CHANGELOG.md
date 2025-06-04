@@ -7,6 +7,11 @@ layout: default
 
 <!-- All notable user-facing changes to this project are documented in this file. -->
 
+## Release v1.5.7
+
+### 新機能
+- [チェックリストの並べ替え](/projects/task/create-checklist/#チェックリストの並べ替えをする)ができるようになりました
+
 ## Release v1.5.6
 
 ### 新機能

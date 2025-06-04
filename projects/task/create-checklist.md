@@ -41,7 +41,7 @@ has_children: false
 5. チェックリストのテキストを入力します。
 
    <table><tr><td>
-   <img src="/assets/images/projects/task/create-checklist/2.png" width="60%">
+   <img src="/assets/images/projects/task/create-checklist/2.png" width="70%">
    </td></tr></table>
 
 {: .note }
@@ -64,7 +64,7 @@ has_children: false
 4. チェックリスト一覧のチェックボックスをクリックします。
 
    <table><tr><td>
-   <img src="/assets/images/projects/task/create-checklist/3.png" width="60%">
+   <img src="/assets/images/projects/task/create-checklist/3.png" width="70%">
    </td></tr></table>
 
 ## チェックリストを削除する
@@ -84,5 +84,29 @@ has_children: false
 4. チェックリスト一覧の[...]のドロップダウンメニューから[削除]を選択します。
 
    <table><tr><td>
-   <img src="/assets/images/projects/task/create-checklist/4.png" width="60%">
+   <img src="/assets/images/projects/task/create-checklist/4.png" width="70%">
+   </td></tr></table>
+
+## チェックリストの並べ替えをする
+
+1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
+
+   <table><tr><td>
+   <img src="/assets/images/activetool-selection.png" width="52px">
+   </td></tr></table>
+
+2. タスクをクリックして選択します。
+3. 以下のいずれかの操作を行います。
+    - サイドバーの操作から[編集]ボタンをクリックします。
+    - タスク右上の[編集]アイコンをクリックします。
+    - 右クリック(iPad:タッチ&ホールド)でコンテキストメニューを開き、[編集]を選択します。
+
+4. 並べ替えたいチェックリストの[ハンドル]アイコンをクリックし、ドラッグアンドドロップで移動させます。
+
+   <table><tr><td>
+   <img src="/assets/images/projects/task/create-checklist/5.png" width="70%">
+   </td></tr></table>
+
+   <table><tr><td>
+   <img src="/assets/images/projects/task/create-checklist/6.png" width="70%">
    </td></tr></table>
