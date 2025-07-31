@@ -1,13 +1,13 @@
 ---
 layout: default
-title: リソースを関連付ける
+title: リソースを割り当てる
 parent: タスクの作成・編集
 grand_parent: プロジェクト
 nav_order: 8
 has_children: false
 ---
 
-# リソースを関連付ける
+# リソースを割り当てる
 {: .no_toc }
 
 ## 目次
@@ -18,7 +18,7 @@ has_children: false
 
 ---
 
-## リソースを関連付ける
+## リソースを割り当てる
 
 1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
 
@@ -38,7 +38,7 @@ has_children: false
    <img src="/assets/images/projects/task/assign-resources/1.png" width="80%">
    </td></tr></table>
 
-5. 選択候補から、関連付けるリソースを選択します。
+5. 選択候補から、割り当てるリソースを選択します。
 
    <table><tr><td>
    <img src="/assets/images/projects/task/assign-resources/2.png" width="50%">
@@ -48,7 +48,7 @@ has_children: false
 [設定>リソース管理]({% link settings/resources/index.md %})でアクティブのリソースが選択候補に表示されます。  
 プロジェクト設定で設定されたプロジェクトリソースが優先表示されます。
 
-## リソースの関連付けを解除する
+## リソースの割り当てを解除する
 
 1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
 
@@ -68,14 +68,14 @@ has_children: false
    <img src="/assets/images/projects/task/assign-resources/1.png" width="80%">
    </td></tr></table>
 
-5. 関連リソースから、関連付けを解除するリソースを選択します。
+5. 関連リソースから、割り当てを解除するリソースを選択します。
 
    <table><tr><td>
    <img src="/assets/images/projects/task/assign-resources/3.png" width="50%">
    </td></tr></table>
 
 
-## 複数のタスクのリソースをまとめて関連付け、関連付けを解除する
+## 複数のタスクのリソースをまとめて割り当て、割り当てを解除する
 
 1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
 
@@ -100,7 +100,7 @@ has_children: false
    <img src="/assets/images/projects/task/assign-resources/5.png" width="100%">
    </td></tr></table>
 
-5. 関連リソースから、関連付け、または関連付けを解除するリソースを選択します。
+5. 関連リソースから、割り当て、または割り当てを解除するリソースを選択します。
 
    <table><tr><td>
    <img src="/assets/images/projects/task/assign-resources/6.png" width="100%">

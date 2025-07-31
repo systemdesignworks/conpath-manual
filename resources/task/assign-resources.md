@@ -1,13 +1,13 @@
 ---
 layout: default
-title: リソースを関連付ける
+title: リソースを割り当てる
 parent: タスクの管理
 grand_parent: リソース
 nav_order: 2
 has_children: false
 ---
 
-# リソースを関連付ける
+# リソースを割り当てる
 {: .no_toc }
 
 ## 目次
@@ -18,11 +18,11 @@ has_children: false
 
 ---
 
-## リソースを関連付ける
+## リソースを割り当てる
 
 1. 関連リソースをクリックします。
 
-2. 選択候補から、関連付けるリソースを選択します。
+2. 選択候補から、割り当てるリソースを選択します。
 
     <table><tr><td>
       <img src="/assets/images/roadmap/task/assign-resources/1.png" width="80%">
@@ -32,11 +32,11 @@ has_children: false
   [設定>リソース管理]({% link settings/resources/index.md %})でアクティブのリソースが選択候補に表示されます。  
   プロジェクト設定で設定されたプロジェクトリソースが優先表示されます。
 
-## リソースの関連付けを解除する
+## リソースの割り当てを解除する
 
 1. 関連リソースをクリックします。
 
-2. 関連リソースから、関連付けを解除するリソースを選択します。
+2. 関連リソースから、割り当てを解除するリソースを選択します。
 
    <table><tr><td>
     <img src="/assets/images/roadmap/task/assign-resources/2.png" width="80%">

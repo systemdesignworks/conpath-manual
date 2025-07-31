@@ -10,7 +10,7 @@ has_children: false
 {: .no_toc }
 
 リソース管理では、リソースの登録、編集を行うことができます。  
-リソースは人や機械など汎用的に登録でき、[タスクに関連付け]({% link projects/task/assign-resources.md %})ることで[リソース]({% link resources/index.md %})で関連リソース毎にグループ化されるようになります。
+リソースは人や機械など汎用的に登録でき、[タスクに割り当て]({% link projects/task/assign-resources.md %})ることで[リソース]({% link resources/index.md %})で関連リソース毎にグループ化されるようになります。
 
 ## 目次
 {: .no_toc .text-delta }
