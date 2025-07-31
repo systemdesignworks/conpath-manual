@@ -7,6 +7,12 @@ layout: default
 
 <!-- All notable user-facing changes to this project are documented in this file. -->
 
+## Release v1.5.8
+
+### 新機能
+- プロジェクト画面にチェックリストのアイコンが表示されるようになりました
+- タスク編集画面のリソース選択の際にアサイン済みのリソースにアイコンが表示されるようになりました
+
 ## Release v1.5.7
 
 ### 新機能
