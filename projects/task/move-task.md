@@ -39,8 +39,14 @@ has_children: false
    <img src="/assets/images/projects/task/move-task/2.png" width="40%">
    </td></tr></table>
 
+   依存関係にあるタスクの始点、終点を越えるタスクの移動を行うとダイアログが表示され、[移動を実行]をクリックすると以降のタスクも連動して移動します。ダイアログの表示は、右クリックのコンテキストメニューから[依存関係のタスクを移動する際に確認ダイアログを表示]を選択してOFFにすることができます。
+
+   <table><tr><td>
+   <img src="/assets/images/projects/task/move-task/5.png" width="60%">
+   </td></tr></table>
+
 {: .note }
-依存関係にあるタスクの始点、終点を越える移動を行うと以降のタスクも連動して移動します。
+この操作では稼働日数が保持されたまま移動します。    
 
 {: .warning }
 タスクの移動には次の制約があります。  
@@ -67,8 +73,10 @@ has_children: false
    <img src="/assets/images/projects/task/move-task/4.png" width="40%">
    </td></tr></table>
 
-{: .note }
-依存関係にあるタスクの始点、終点を越えるタスクの移動を行うと以降のタスクも連動して移動します。
+   依存関係にあるタスクの始点、終点を越えるタスクの移動を行うと以降のタスクも連動して移動します。
+
+{: .warning }
+この操作では稼働日数は保持されません。    
 
 {: .warning }
 タスクの移動には次の制約があります。  

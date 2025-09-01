@@ -7,6 +7,11 @@ layout: default
 
 <!-- All notable user-facing changes to this project are documented in this file. -->
 
+## Release v1.6.0
+
+### 新機能
+- [タスクを移動](/projects/task/move-task)、[タスクの期間を変更](/projects/task/change-period-task)で、稼働日数を保持したまま移動されるようになりました
+
 ## Release v1.5.8
 
 ### 新機能
