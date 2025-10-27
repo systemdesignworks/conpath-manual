@@ -22,11 +22,23 @@ has_children: false
 
 ## 各部の名称
 
-   <table><tr><td>
-   <img src="/assets/images/sidebar-library.png" width="40%">
-   </td></tr></table>
+ライブラリは2画面構成になっています。
 
-## ライブラリの登録
+### カテゴリ一覧画面
+
+<table><tr><td>
+<img src="/assets/images/sidebar-library-1.png" width="60%">
+</td></tr></table>
+
+### アイテム一覧画面
+
+<table><tr><td>
+<img src="/assets/images/sidebar-library-2.png" width="60%">
+</td></tr></table>
+
+## ライブラリを登録する
+
+### サイドバーから登録
 
 1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
 
@@ -40,91 +52,104 @@ has_children: false
    <img src="/assets/images/projects/library/1.png" width="100%">
    </td></tr></table>
 
-3. ＋ボタンをクリックします。
+
+3. [+ライブラリに追加]ボタンをクリックします。
+
+4. ライブラリ登録ダイアログが表示されるので、ライブラリ名、カテゴリを入力して[登録する]ボタンをクリックします。
 
    <table><tr><td>
-   <img src="/assets/images/projects/library/2.png" width="100%">
+   <img src="/assets/images/projects/library/2.png" width="60%">
    </td></tr></table>
 
-4. ライブラリ名、カテゴリを入力して[登録する]ボタンをクリックします。
+### ショートカットキーで登録
+
+1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
 
    <table><tr><td>
-   <img src="/assets/images/projects/library/3.png" width="100%">
+   <img src="/assets/images/activetool-selection.png" width="52px">
    </td></tr></table>
 
-   ライブラリに登録されます。  
+2. ライブラリに登録したい単一/複数要素を選択します。
+
+3. Lキーを押します。
+
+4. ライブラリ登録ダイアログが表示されるので、ライブラリ名、カテゴリを入力して[登録する]ボタンをクリックします。
+
+### コンテキストメニューから登録
+
+1. ツールバーの[選択]アイコンをクリックしてアクティブにします。
 
    <table><tr><td>
-   <img src="/assets/images/projects/library/4.png" width="30%">
+   <img src="/assets/images/activetool-selection.png" width="52px">
    </td></tr></table>
+
+2. タスクを右クリック(iPad:タッチ&ホールド)でコンテキストメニューを開き、[ライブラリに追加]を選択します。
+
+   <table><tr><td>
+   <img src="/assets/images/projects/library/3.png" width="50%">
+   </td></tr></table>
+
+3. ライブラリ登録ダイアログが表示されるので、ライブラリ名、カテゴリを入力して[登録する]ボタンをクリックします。
 
 {: .note }
 登録されたライブラリは、組織に自動的に共有されます。  
 担当者を引き継ぐ、関連リソースを引き継ぐにチェックを入れると、担当者、関連リソースの情報もライブラリ呼び出し時に引き継ぐことができます。
 
-## ライブラリの呼び出し
+## ライブラリを呼び出す
 
-ライブラリのアイテムを描画したい領域にドラッグ＆ドロップします。
+1. カテゴリ一覧から目的のカテゴリをクリックします。
+
+2. アイテム一覧から使用したいライブラリアイテムを選択します。
+
+3. キャンバス上の描画したい領域にドラッグ＆ドロップします。
+
+   <table><tr><td>
+   <img src="/assets/images/projects/library/4.png" width="100%">
+   </td></tr></table>
 
    <table><tr><td>
    <img src="/assets/images/projects/library/5.png" width="100%">
    </td></tr></table>
 
-   <table><tr><td>
-   <img src="/assets/images/projects/library/6.png" width="100%">
-   </td></tr></table>
+{: .note }
+ライブラリ登録時点の稼働日数を保持したままペーストされます。
+
+## ライブラリを検索する
+
+1. カテゴリ一覧画面またはアイテム一覧画面で、上部の検索ボックスにキーワードを入力します。
+
+2. ライブラリ名に一致するアイテムが絞り込まれて表示されます。
+
+{: .note }
+カテゴリ一覧の検索はカテゴリ名、アイテム一覧の検索はライブラリ名、作成者名、備考に対して行われます。部分一致で検索できます。
 
 ## ライブラリを編集する
 
-1. ライブラリのアイテムをクリックします。
+1. カテゴリ一覧から目的のカテゴリをクリックします。
 
-   <table><tr><td>
-   <img src="/assets/images/projects/library/7.png" width="30%">
-   </td></tr></table>
+2. アイテム一覧画面で編集したいライブラリアイテムの[鉛筆]アイコンをクリックします。
 
-2. [...]のドロップダウンメニューから[編集]を選択します。
-
-   <table><tr><td>
-   <img src="/assets/images/projects/library/8.png" width="30%">
-   </td></tr></table>
-
-3. ライブラリ名、カテゴリを入力して[編集する]ボタンをクリックします。
-
-   <table><tr><td>
-   <img src="/assets/images/projects/library/9.png" width="100%">
-   </td></tr></table>
+3. ライブラリ名、カテゴリを変更して[編集する]ボタンをクリックします。
 
 ## ライブラリを削除する
 
-1. ライブラリのアイテムをクリックします。
+1. カテゴリ一覧から目的のカテゴリをクリックします。
 
-   <table><tr><td>
-   <img src="/assets/images/projects/library/10.png" width="30%">
-   </td></tr></table>
+2. アイテム一覧で削除したいライブラリアイテムをクリックし、[...]のドロップダウンメニューから[削除]を選択します。
 
-2. [...]のドロップダウンメニューから[削除]を選択します。
-
-   <table><tr><td>
-   <img src="/assets/images/projects/library/11.png" width="30%">
-   </td></tr></table>
-
-3. [確定]ボタンをクリックします。
-
-   <table><tr><td>
-   <img src="/assets/images/projects/library/12.png" width="50%">
-   </td></tr></table>
+3. 確認ダイアログで[確定]ボタンをクリックします。
 
 ## ライブラリをブックマークする
 
-ライブラリのアイテム右上の[ブックマーク]アイコンをクリックします。
-<table><tr><td>
-<img src="/assets/images/projects/library/13.png" width="25%">
-</td></tr></table>
+1. カテゴリ一覧から目的のカテゴリをクリックします。
 
-ブックマークの状態が切り替わります。
-<table><tr><td>
-<img src="/assets/images/projects/library/14.png" width="25%">
-</td></tr></table>
+2. アイテム一覧でライブラリアイテム左上の[ブックマーク]アイコンをクリックします。
+
+3. ブックマークの状態が切り替わります。
 
 {: .note }
 ブックマークしたライブラリは優先表示されます。
+
+## カテゴリ一覧に戻る
+
+アイテム一覧画面で左上の[カテゴリ一覧に戻る]ボタンをクリックすると、カテゴリ一覧画面に戻ります。

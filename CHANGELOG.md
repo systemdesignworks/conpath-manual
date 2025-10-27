@@ -7,6 +7,22 @@ layout: default
 
 <!-- All notable user-facing changes to this project are documented in this file. -->
 
+## Release v1.7.0
+
+### 新機能
+- 印刷の品質が大幅に改善されました。また、週表示の印刷に対応しました
+- [プロジェクトのパブリック公開機能](/projects/publish-project)が追加されました
+- [プロジェクトの管理](/projects/manage-project/)のUIが改善されました
+- [ライブラリ機能](/projects/library/)のUIが改善されました
+- [コメント機能](/projects/comment/)のUIが改善されました
+- [ダッシュボード](/dashboard/)の最新の更新にフィルタ機能が追加されました（全て/自分に関連）
+- [画像・PDFアップロード、描画、ダウンロード機能](/projects/insert-files)が追加されました
+- プロジェクト画面にスクロールバーが実装されました
+- ライブラリの呼び出し、コピーペースト、複製時に稼働日数が保持されたままペーストされるようになりました
+- タスク・ライブラリ操作のショートカットキーが追加されました
+- メール通知条件や送信内容が一部見直されました
+- その他、不具合の修正やパフォーマンスの改善を実施しました
+
 ## Release v1.6.0
 
 ### 新機能
