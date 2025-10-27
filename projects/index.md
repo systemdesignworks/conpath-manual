@@ -39,8 +39,6 @@ has_children: true
 - 名前をつけて保存  
   現在のキャンバスの状態を.conpath形式のファイルに保存します。
 
-- 画像のエクスポート  
-  現在のキャンバスの状態を画像として出力します。
 
 - 印刷  
   現在のキャンバスの状態を印刷します。
@@ -143,7 +141,7 @@ has_children: true
 </td></tr></table>
 
 - 画像を挿入  
-画像を挿入します。
+画像を挿入します。詳しくは[画像・PDFを挿入する]({% link projects/insert-files.md %})をご参照ください。
 <table><tr><td>
 <img src="/assets/images/projects/15.png" width="5%">
 </td></tr></table>
