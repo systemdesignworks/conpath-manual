@@ -7,6 +7,12 @@ layout: default
 
 <!-- All notable user-facing changes to this project are documented in this file. -->
 
+## Release v1.7.1
+
+### 新機能
+- [プロジェクトの公開](/projects/publish-project)にパスワード保護機能が追加されました
+- 公開ページの日付ヘッダーを上部に固定して、スクロールしても見えるようになりました
+
 ## Release v1.7.0
 
 ### 新機能
