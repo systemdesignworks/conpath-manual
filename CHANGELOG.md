@@ -7,6 +7,14 @@ layout: default
 
 <!-- All notable user-facing changes to this project are documented in this file. -->
 
+## Release v1.8.0
+
+### 新機能
+- [ライブラリ機能](/projects/library/)にフォルダ階層が追加され、ツリー形式で整理・操作できるようになりました
+- [行ヘッダー](/projects/row-header/)で行を縮小すると、行内に含まれる通常図形が非表示になるようになりました
+- プロジェクト画面にレイヤーの常時表示ウィンドウが追加されました
+- [レイヤーの管理](/projects/layer/)で、タスクやマイルストーンを含むレイヤーも、確認ダイアログのあとで削除できるようになりました
+
 ## Release v1.7.1
 
 ### 新機能
